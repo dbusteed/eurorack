@@ -2,7 +2,7 @@
 <project>
   <fileVersion>
     <major>5</major>
-    <minor>2</minor>
+    <minor>5</minor>
     <build>0</build>
   </fileVersion>
   <title>New Project</title>
@@ -1513,6 +1513,16 @@
       <name>LAB31</name>
       <point x="3.7" y="5.5"/>
       <text>AC</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>LAB32</name>
+      <point x="6.9" y="4.3"/>
+      <text>see schematic for values of everything</text>
       <font name="Dialog.plain" size="14" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>

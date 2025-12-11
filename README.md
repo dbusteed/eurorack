@@ -1,6 +1,6 @@
 # Project files for my DIY Eurorack adventure
 
-Folders are organized by module, and usually include links to resources, schematics, stripboard layouts, etc.
+Folders are organized by module, and usually include links to resources, schematics, stripboard layouts, etc. Detailed(-ish) write-ups for each module can be found on [my website](https://dbusteed.github.io/).
 
 ## Note on Module / Design Names
 
