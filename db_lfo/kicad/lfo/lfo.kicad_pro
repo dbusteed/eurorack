@@ -250,7 +250,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "db_vco.kicad_pro",
+    "filename": "lfo.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -397,7 +397,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "./",
+    "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -410,7 +410,7 @@
   },
   "sheets": [
     [
-      "d5cfadcb-82fe-4bf8-84b8-0c1a49dda502",
+      "e848dcab-bf40-4648-a9d7-8cb1736bc309",
       "Root"
     ]
   ],
