@@ -60,7 +60,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "db_vcf.kicad_prl",
+    "filename": "db_mixer.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
